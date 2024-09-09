@@ -34,21 +34,21 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiugan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiugan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kiugan" /></p>
 
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiugan&theme=react&hide_border=true" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiugan&theme=react&hide_border=true" alt="kiugan" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kiugan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
-<a href="https://instagram.com/anii_akhil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anii_akhil" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiugan&label=Profile%20views&color=0e75b6&style=flat" alt="kigugan" /> </p>
