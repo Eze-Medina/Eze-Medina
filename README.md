@@ -33,7 +33,7 @@
 
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" /></p>
+<p>&nbsp;<img align="left" style="width: 52%" src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 
