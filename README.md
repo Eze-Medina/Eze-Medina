@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Ezequiel Medina</h1>
 
 
@@ -13,6 +14,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -26,29 +28,24 @@
 <br>
 
 
-<hr width="36%" >
+<hr width="35%" >
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiugan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kiugan">
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
+</div>
+
 <br>
 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" style="width: 49%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiugan&theme=react&hide_border=true" alt="kiugan" style="width: 51%;">
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiugan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kiugan" /></p>
+<br>
 
-
-<br><br><br><br><br><br><br>
-<p align="center">
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adityakanoi2001&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/Adityakanoi2001">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adityakanoi2001&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
-<br><br><br><br><br>
-
-<br><br><br><br><br>
-<hr width="60%" >
+<hr width="50%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kiugan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
