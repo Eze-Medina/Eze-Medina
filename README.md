@@ -37,9 +37,11 @@
 
 
 <br><br><br><br><br><br><br>
-<p>
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" />
- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiugan&theme=react&hide_border=true" alt="kiugan" />
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiugan&theme=react&hide_border=true"/>
+</a>
 </p>
 <br><br><br><br><br>
 
