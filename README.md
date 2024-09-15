@@ -1,14 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Ezequiel Medina</h1>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 🌱 I’m currently learning **WEB Development Full-Stack**
  <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-
 
 <br>
 <h3 align="left">Languages and Tools:</h3>
@@ -28,24 +22,24 @@
 <br>
 
 
-<hr width="35%" >
+<hr width="36%" >
 
 <h3>My GitHub Stats</h3>
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiugan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kiugan">
-    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-</div>
-
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
 <br>
 
-<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" style="width: 49%;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kiugan&theme=react&hide_border=true" alt="kiugan" style="width: 51%;">
-</div>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiugan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kiugan" /></p>
 
-<hr width="50%" >
+
+<br><br><br><br><br><br><br>
+<p>&nbsp;<img align="left" style="width: 49%" src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiugan&theme=react&hide_border=true" alt="kiugan" /></p>
+<br><br><br><br><br><br><br><br><br><br>
+<hr width="60%" >
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kiugan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
