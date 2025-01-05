@@ -48,7 +48,4 @@
 
 ------
 
-
-[Kiugan](https://github.com/Kiugan)
-
 Last Edited on: 05/01/2025
