@@ -29,15 +29,15 @@
 <br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiugan&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kiugan" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eze-Medina&theme=react&show_icons=true&hide_border=true&layout=compact" alt="kiugan" /></p>
 
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" style="width: 52%" src="https://github-readme-stats.vercel.app/api?username=Kiugan&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" /></p>
+<p>&nbsp;<img align="left" style="width: 52%" src="https://github-readme-stats.vercel.app/api?username=Eze-Medina&theme=react&show_icons=true&hide_border=true&count_private=true" alt="kiugan" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Kiugan&theme=react&hide_border=true" alt="kiugan" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Eze-Medina&theme=react&hide_border=true" alt="kiugan" /></p>
 <br><br><br><br><br><br><br><br><br><br>
 <hr width="60%" >
 <h3 align="left">Connect with me:</h3>
